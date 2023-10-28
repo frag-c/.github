@@ -1,10 +1,13 @@
 An organization to store files associated with a potential remake of frag-z using c/c++
 
+If this repository gets large enough I can start relocating to the frag-z organization.
+
 Reasons to remake the game:
 * I can develop the game without having to use the godot editor, meaning everything can be done from command line
 * Makes automated builds easier
+* Improve performance
+* Have complete control over visual style
 * We can use a typed programming language, improve debugging and testing
-* Have complete control ofver what we're doing
 
 Tech Stack:
 * SDL2
