@@ -33,5 +33,6 @@ Resources:
   * https://www.youtube.com/watch?v=XvPN6K5ATl0
 * UI
   * https://www.youtube.com/watch?v=hCLjiManL04
+  * https://www.youtube.com/watch?v=VRwhNKoxUtk
 * Terminal
   * https://www.youtube.com/watch?v=IOQYXogZXKQ
