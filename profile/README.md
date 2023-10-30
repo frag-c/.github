@@ -12,9 +12,11 @@ Reasons to remake the game:
 * We can use a typed programming language, improve debugging and testing
 
 Tech Stack:
-* SDL2
-* bullet physics
-* [enet](http://enet.bespin.org/)
+* Game Loops + Input: SDL2
+* Physics: bullet physics
+* Networking: [enet](http://enet.bespin.org/)
+* Graphics: opengl
+* UI: [imgui](https://github.com/ocornut/imgui)
 
 Resources:
 * General
