@@ -24,5 +24,6 @@ Resources:
   * https://lazyfoo.net/tutorials/SDL/index.php
   * https://hackernoon.com/build-a-game-engine-from-scratch-in-c
   * https://www.youtube.com/@code-imposter
+  * https://www.youtube.com/@CodeTechandTutorials
 * Networking
   * https://www.youtube.com/watch?v=XvPN6K5ATl0
