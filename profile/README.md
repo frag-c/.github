@@ -29,6 +29,7 @@ Resources:
   * https://www.youtube.com/@CodeTechandTutorials
   * https://github.com/ocornut/imgui
   * https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx
+  * https://www.youtube.com/@OGLDEV
 * Networking
   * https://www.youtube.com/watch?v=XvPN6K5ATl0
 * UI
