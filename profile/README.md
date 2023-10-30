@@ -25,5 +25,10 @@ Resources:
   * https://hackernoon.com/build-a-game-engine-from-scratch-in-c
   * https://www.youtube.com/@code-imposter
   * https://www.youtube.com/@CodeTechandTutorials
+  * https://www.youtube.com/watch?v=QQzAHcojEKg&list=PLhfAbcv9cehhkG7ZQK0nfIGJC_C-wSLrx
 * Networking
   * https://www.youtube.com/watch?v=XvPN6K5ATl0
+* UI
+  * https://www.youtube.com/watch?v=hCLjiManL04
+* Terminal
+  * https://www.youtube.com/watch?v=IOQYXogZXKQ
